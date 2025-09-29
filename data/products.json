@@ -1,0 +1,226 @@
+[
+    {
+        "name":"Palmposha",
+        "price":450,
+        "description":"Rich in natural flavor and rich in nutrients, Palmyra Palmposha is a delicious snack or a great addition. Enjoy the purity of Palmyra and every bite of the precious Palmposha, where the riches of nature and the joy of cooking meet.",
+        "ratings":3.0,
+        "images":[
+            {
+                "image":"/images/products/palmposha 01.JPG"
+            },
+            {
+                "image":"/images/products/palmposha 01.JPG"
+            }   
+        ],
+        "category":"Flour Blends",
+        "stock":15,
+        "numOfReviews":10,
+        "reviews":[]
+        },
+    {
+        "name":"Palmyrah Jam",
+        "price":350,
+        "description":"Incorporating exquisite Palmyra Jam, a blend of natural flavors and tropical beauty, immerse yourself in the delicious taste of Palmyra with our premium jam. Each bottle is a symbol of quality and the vibrant spirit of tropical flavors",
+        "ratings":4.0,
+        "images":[
+            {
+                "image":"/images/products/palm jam.JPG"
+            },
+            {
+                "image":"/images/products/palm jam.JPG"
+            }
+        ],
+        "category":"Jams and Spreads",
+        "stock":12,
+        "numOfReviews":10,
+        "reviews":[]
+        },
+    {
+            "name":"Basket",
+            "price":700,
+            "description":"Discover the beauty of sustainable crafts with our Palmyra Leaf Basket. The rustic look of the Palmyra Leaf Basket adds nature to any room and offers an elegant and versatile way to organize your home",
+            "ratings":3.0,
+            "images":[
+                {
+                    "image":"/images/products/basket.JPG"
+                },
+                {
+                    "image":"/images/products/basket.JPG"
+                }
+            ],
+            "category":"Gifts and Sets",
+            "stock":15,
+            "numOfReviews":10,
+            "reviews":[]
+         },
+    {
+            "name":"Palm Jaggery",
+            "price":300,
+            "description":"Indulge in the natural sweetness of our premium jaggery, a timeless favorite in traditional and modern kitchens alike. Crafted from pure sugarcane juice, our jaggery undergoes a meticulous process of extraction and refinement, ensuring the highest quality and rich flavor",
+            "ratings":4.0,
+            "images":[
+                {
+                    "image":"/images/products/jaggery.JPG"
+                },
+                {
+                    "image":"/images/products/jaggery.JPG"
+                }
+            ],
+            "category":"Desserts",
+            "stock":10,
+            "numOfReviews":15,
+            "reviews":[]
+         },
+    
+    {
+        "name":"Palmyra Fruit Pulp",
+        "price":450,
+        "description":"Enjoy the taste and texture of our Palmyra Pulp, it's a great addition to enhance your creations. Let our premium pulps immerse you in the authentic culture of Palmyra, delivered with our commitment to quality and the inspiring spirit of the cuisine of this land. ",
+        "ratings":3.8,
+        "images":[
+            {
+                "image":"/images/products/palmfruitpulp 01.JPG"
+            },
+            {
+                "image":"/images/products/palmfruitpulp 02.JPG"
+            }
+        ],
+        "category":"Jams and Spreads",
+        "stock":15,
+        "numOfReviews":10,
+        "reviews":[]
+        },
+
+    {
+        "name":"Palmyra Panaddu",
+        "price":595,
+        "description":"Enjoy the rich tradition and exquisite taste of Palmyra Panaddu ,a  time-honored delicacy created with passion and authenticity. Whether enjoyed as a delicious snack or for a special occasion , Palmyra Panaddu promises a journey to the heart of tropical delicacies",
+        "ratings":3.0,
+        "images":[
+            {
+                "image":"/images/products/panaddu 01.JPG"
+            },
+            {
+                "image":"/images/products/panaddu 02.JPG"
+            }
+        ],
+        "category":"Panaddu Varieties",
+        "stock":10,
+        "numOfReviews":15,
+        "reviews":[]
+    },
+
+    {
+        "name": "Palmyra Boiled Tuber Flour",
+        "price":630,
+        "description":"Discover the essence of a healthy delicacy with our Palmyra Tuber Flour. Our Palmyra Tuber Flour is gluten-free, full of authentic flavor, and perfect for preparing a variety of dishes. Make health-conscious choice and enjoy the purity of our premium Palmyra Tuber Flour.",
+        "ratings":3.0,
+        "images":[
+            {
+                "image":"/images/products/palmyrah boiled tuber flour.JPG"
+            },
+            {
+                "image":"/images/products/palmyrah boiled tuber flour.JPG"
+            }
+        ],
+        "category":"Palmyrah Boiled Tuber Flour Varietes",
+        "stock":10,
+        "numOfReviews":15, 
+        "reviews":[]
+    },
+
+    {
+        "name":"Palmyra Dried Tuber Flour",
+        "price":645,
+        "description":"Feel the pure essence of Palmyra with our premium dry tuber flour. Our dried palmyra tuber flour is carefully processed to preserve its natural qualities. It is gluten-free and, therefore, a healthy choice for various culinary creations. ",
+        "ratings":3.0,
+        "images":[
+            {
+                "image":"/images/products/palmyrah boiled tuber flour.JPG"
+            },
+            {
+                "image":"/images/products/palmyrah boiled tuber flour.JPG"
+            }
+        ],
+        "category":"Palmyrah Boiled Tuber Flour Varietes",
+        "stock":10,
+        "numOfReviews":15,
+        "reviews":[]
+    },
+
+    {
+        "name":"Palmyra Odiyal Kool",
+        "price":425,
+        "description":"Embrace the heritage and culinary value of Palmyra with our Palmyra Odiyal Kool. Indulge in the authentic flavors and rich culture of Palmyra as you enjoy every spoonful of our Palmyra Odiyal Kool.",
+        "ratings":3.0,
+        "images":[
+            {
+                "image":"/images/products/odiyal kool.JPG"
+            },
+            {
+                "image":"/images/products/odiyal kool 01.JPG"
+            }
+        ],
+        "category":"Flour Blends",
+        "stock":10,
+        "numOfReviews":15,
+        "reviews":[]
+    },
+
+    {
+        "name":"Palm Jaggery Cake",
+        "price":70,
+        "description":"Enjoy the irresistible combination of tradition and luxury with Palmyra Palm Jaggery Cake. Made with the purest Palmyra palm jaggery, this delicious cake embodies the rich flavor of tropical sweetness",
+        "ratings":3.0,
+        "images":[
+            {
+                "image":"/images/products/jaggery cake.JPG"
+            },
+            {
+                "image":"/images/products/jaggery cake 01.JPG"
+            }
+        ],
+        "category":"Desserts",
+        "stock":10,
+        "numOfReviews":15,
+        "reviews":[]
+    },
+
+    {
+        "name":"Palm Chocolate",
+        "price":65,
+        "description":"Experience the divine combination of flavors and Palmyra Palm Chocolate. Enjoy an innocent decoration by combining the best ingredients to create unique and delicious results with Palmyra Palm chocolate",
+        "ratings":3.0,
+        "images":[
+            {
+                "image":"/images/products/palm chocolate.JPG"
+            },
+            {
+                "image":"/images/products/palm chocolate.JPG"
+            }
+        ],
+        "category":"Desserts",
+        "stock":10,
+        "numOfReviews":15,
+        "reviews":[]
+    }, 
+
+    {
+        "name":"Palm Biscuit",
+        "price":210,
+        "description":"Satisfy your taste buds with our Palmyra Plam Biscuits, the perfect blend of traditional beauty and modern innovation. Enjoy the perfect blend of natural sweetness and delicious texture that make our Palmyra Palm Biscits a healthy treat for any occasion",
+        "ratings":3.0,
+        "images":[
+            {
+                "image":"/images/products/palm biscuit.JPG"
+            },
+            {
+                "image":"/images/products/palm biscuit.JPG"
+            }
+        ],
+        "category":"Desserts",
+        "stock":10,
+        "numOfReviews":15,
+        "reviews":[]
+     }
+]
